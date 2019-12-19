@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="mein_tolles_quiz">Mein tolles Quiz</string>
+    <string name="confirm">Nächste Frage</string>
+    <string name="toast_choose_answer">Bitte eine Antwort auswählen!</string>
+    <string name="backpressed_again">Drücke Zurück-Button nochmal um zu beenden</string>
+    <string name="weiter">Weiter</string>
+    <string name="next">Nächste</string>
+    <string name="finish">Ende</string>
+</resources>
